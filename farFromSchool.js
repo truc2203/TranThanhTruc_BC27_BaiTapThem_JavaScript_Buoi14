@@ -19,7 +19,7 @@ function farFromSchool()
 
     var coorStudent1 = Math.sqrt(((schoolX - studentX1)*(schoolX - studentX1)) + ((schoolY - studentY1)*(schoolY - studentY1)))  
     var coorStudent2 = Math.sqrt(((schoolX - studentX2)*(schoolX - studentX2)) + ((schoolY - studentY2)*(schoolY - studentY2)))  
-    var coorStudent3 = Math.sqrt(((schoolX - studentX3)*(schoolX - studentX3)) + ((schoolY - studentY2)*(schoolY - studentY3)))  
+    var coorStudent3 = Math.sqrt(((schoolX - studentX3)*(schoolX - studentX3)) + ((schoolY - studentY3)*(schoolY - studentY3)))  
 
     console.log(coorStudent1)
     console.log(coorStudent2)
